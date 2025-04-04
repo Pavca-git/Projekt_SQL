@@ -7,14 +7,14 @@ První projekt do Engeto Online Datové Akademie
 
 ## Datové sady použité pro vytvoření datového podkladu
 
-### - Primární tabulky pro vytvoření tabulky primary_final
+### Primární tabulky pro vytvoření tabulky primary_final
 
 - czechia_payroll - informace o mzdách v různých odvětvích za několikaleté období
 - czechia_payroll_industry_branch - číselník odvětví v tabulce mezd
 - czechia_price - informace o cenách vybraných potravin za několikaleté období
 - czechia_price_category - číselník kategorií vybraných potravin
 
-### - Dodatečná tabulka pro vytvoření tabulky secondary_final
+### Dodatečná tabulka pro vytvoření tabulky secondary_final
 
 - economies - HDP, GINI koeficient, populace, atd. pro daný stát a rok
 
@@ -28,5 +28,5 @@ První projekt do Engeto Online Datové Akademie
 
 ## Popis souborů
 
-Projekt obsahuje 7 SQL samostatných souborů - vytvoření tabulky primary_final, secondery_final a odpovědi na otázky 1 až 5.
+Projekt obsahuje 7 samostatných SQL souborů - vytvoření tabulky primary_final, secondary_final a odpovědi na otázky 1 až 5.
 Součástí je také MD soubor s odpověďmi na výzkumné otázky.
