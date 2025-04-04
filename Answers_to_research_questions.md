@@ -16,7 +16,7 @@ V některých odvětvích poklesla mzda pouze nepatrně:
 - Velkoobchod a maloobchod; opravy a údržba motorových vozidel v roce *2013* o **-0,94 %**
 - Zásobování vodou, činnosti související s odpady a sanacemi v roce *2013* o **-0,38 %**
 
-V jiných odvětví byl pokles mzdy výraznější i více krát:
+V jiných odvětvích byl pokles mzdy výraznější i více krát:
 - Činnosti v oblasti nemovitostí v roce *2013* o **-1,7 %** a *2020* o **-7 %**
 - Kulturní, zábavní a rekreační činnosti v roce *2011* o **-0,05 %**, *2013* o **-1,37 %** a *2021* o **-3,03 %**
 - Peněžnictví a pojišťovnictví v roce *2013* o **-8,91**
