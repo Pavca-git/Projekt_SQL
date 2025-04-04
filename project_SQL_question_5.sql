@@ -41,7 +41,8 @@ SELECT
 	vpg.`year`, 
 	vpg.perc_GDP,
 	vpvp.price_perc_growth,
-	vpvp.payroll_perc_growth 
+	vpvp.payroll_perc_growth, 
+	(vpvp.payroll_perc_growth - vpvp.price_perc_growth) AS real_payroll_perc_growth
 FROM v_perc_gdp AS vpg 
 INNER JOIN v_payroll_vs_price AS vpvp 
 	ON vpg.`year` = vpvp.price_year 
