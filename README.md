@@ -28,5 +28,5 @@ První projekt do Engeto Online Datové Akademie
 
 ## Popis souborů
 
-Projekt obsahuje 7 samostatných SQL souborů - vytvoření tabulky primary_final, secondery_final a odpovědi na otázky 1 až 5.
+Projekt obsahuje 7 samostatných SQL souborů - vytvoření tabulky primary_final, secondary_final a odpovědi na otázky 1 až 5.
 Součástí je také MD soubor s odpověďmi na výzkumné otázky.
