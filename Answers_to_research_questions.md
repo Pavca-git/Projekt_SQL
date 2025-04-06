@@ -69,7 +69,7 @@ V jiných odvětví byl pokles mzdy výraznější:
 Nejvíce krát byl pokles mzdy napříč odvětví v roce **2013**. Nejvýraznější pokles ze všech odvětví zaznamenalo v roce **2013** *peněžnictví a pojišťovnictví* (o **8,91 %**). Konkrétně snížení mzdy v průměru o **4479 Kč**.  
 Pokud se podíváme na nejvýraznější růst - ve *zdravotnictví a sociální péči* se v roce **2021** navýšily průměrně mzdy o **5823 Kč** (o **14.72 %**). Stojí za zmínku, že nejvyšší procentuální meziroční nárust mzdy zaznamenaly informační a komunikační činnosti v roce *2001* o **15,22 %**.
 
-Celkový růst jednotlivých odvětví za celé období 21 let se pohybuje v rozmezí **129,42 %** do **203,55 %**. Pouze v oblasti *zdravotní a sociální péči* mzdy vzrostli v roce 2021 oproti roku 2000 o **290,04 %**.
+Celkový růst jednotlivých odvětví za celé období 21 let se pohybuje v rozmezí od **129,42 %** do **203,55 %**. Pouze v oblasti *zdravotní a sociální péči* mzdy vzrostli v roce 2021 oproti roku 2000 o **290,04 %**.
 
 ---
 
@@ -95,8 +95,8 @@ Pokud se podíváme na růst/pokles cen v jednotlivých letech, v roce *2007* do
 Výchozí hodnotou cen potravin byl součet cen jednotlivých potravin, pro které byly k dispozici cenové údaje za všechny roky. *Jakostní víno bílé* nebylo zahrnuto do součtu, protože cenové údaje jsou známy až od roku *2015*.   
 Ve zkoumaném období (*2006 - 2018*) *nebyl* zaznamenán rok, kdy by rozdíl mezi růstem cen potravin a růstem mezd byl větší než **10 %**.  
 Nejlépe na tom byli lidé v roce *2009*, kdy nejen že potraviny zlevnily o **6,42 %**, ale mzdy navíc vzrostly o **3,16 %**.  
-Naopak v roce *2013* ceny potravin vzrostly o **7,46** a mzdy klesly o **1,56 %**.  
-Nejvýraznější růst cen potravin nastal v roce *2017*, kdy ceny vzrostly o **10,12**, což bylo částečně kompenzováno růstem mezd o **6.28 %**.  
+Naopak v roce *2013* ceny potravin vzrostly o **7,46 %** a mzdy klesly o **1,56 %**.  
+Nejvýraznější růst cen potravin nastal v roce *2017*, kdy ceny vzrostly o **10,12 %**, což bylo částečně kompenzováno růstem mezd o **6.28 %**.  
 
 ---
 
