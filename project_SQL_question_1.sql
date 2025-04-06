@@ -24,9 +24,10 @@ CREATE OR REPLACE VIEW v_payroll_growth AS
 SELECT *
 FROM v_payroll_growth AS vpg ;
 
-SELECT *
+SELECT payroll_year, count(*)
 FROM v_payroll_growth AS vpg 
-WHERE perc_payroll_growth IS NOT NULL 
+WHERE perc_payroll_growth < 0 
+GROUP BY payroll_year
 ORDER BY payroll_year;
 
 SELECT 
